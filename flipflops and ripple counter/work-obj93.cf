@@ -1,0 +1,9 @@
+v 4
+file . "seq_circuit.vhdl" "ff937721ace6a4ecc5f9ad4b981dd1198618d552" "20220613150548.850":
+  entity seq_circuit at 3( 4) + 0 on 17;
+  architecture work of seq_circuit at 13( 182) + 0 on 18;
+  entity d_flip_flop at 34( 722) + 0 on 19;
+  architecture flipflop of d_flip_flop at 44( 896) + 0 on 20;
+file . "seq_circuit_tb.vhdl" "f11781cc9feb87e7c6bed06729011b022c21c339" "20220410210458.206":
+  entity tb_seq_circuit at 1( 0) + 0 on 15;
+  architecture tb of tb_seq_circuit at 7( 96) + 0 on 16;

@@ -1,0 +1,9 @@
+v 4
+file / "c:\Users\Karim\Desktop\logic 2 labs\Lab 3\tb_bcd_counter.vhd" "79838bc21c20413fa2c07e0cc62762133c4e9be7" "20220428105705.684":
+  entity tb_bcd_counter at 1( 0) + 0 on 49;
+  architecture tb of tb_bcd_counter at 7( 96) + 0 on 50;
+file / "c:\Users\Karim\Desktop\logic 2 labs\Lab 3\bcd_counter.vhd" "48f0203b6f77a877a0af4e2ab65d92f176346376" "20220428105658.141":
+  entity d_flipflop at 1( 0) + 0 on 45;
+  architecture flip of d_flipflop at 11( 220) + 0 on 46;
+  entity bcd_counter at 31( 635) + 0 on 47;
+  architecture count of bcd_counter at 43( 880) + 0 on 48;
